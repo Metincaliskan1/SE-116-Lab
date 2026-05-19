@@ -1,0 +1,5 @@
+=== Class Summary ===
+Total number of loaded students: 6
+The number of successful students: 3
+the number of unsuccessful students: 3
+The class average score: 70.83333333333333

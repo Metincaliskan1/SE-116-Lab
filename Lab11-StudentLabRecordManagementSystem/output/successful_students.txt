@@ -1,0 +1,16 @@
+===Successful Students===
+Id: 20260601001
+Name: Ali Yilmaz
+Completed Labs: 8
+Score: 76.5
+Temporary Password: abc123
+Id: 20260601003
+Name: Mehmet Kaya
+Completed Labs: 10
+Score: 91.0
+Temporary Password: pass789
+Id: 20260601004
+Name: Zeynep Can
+Completed Labs: 7
+Score: 69.5
+Temporary Password: hidden1

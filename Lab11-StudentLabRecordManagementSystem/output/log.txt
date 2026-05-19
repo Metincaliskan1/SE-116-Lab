@@ -1,0 +1,3 @@
+Application started.
+Reports generated and input file backed up successfully.
+Application finished successfully.
